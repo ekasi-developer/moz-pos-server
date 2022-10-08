@@ -1,5 +1,7 @@
 <?php
 
+set_time_limit(60*2);
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
